@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">TechHub Studio</title>
+  <desc id="desc">Animated graphite banner for TechHub Studio and TechBrowser.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b0f"/>
+      <stop offset="0.52" stop-color="#121722"/>
+      <stop offset="1" stop-color="#080a0e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6d7cff"/>
+      <stop offset="0.48" stop-color="#9b72ff"/>
+      <stop offset="1" stop-color="#53d8ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#8a78ff" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#8a78ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+    <clipPath id="frame"><rect width="1200" height="300" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#background)"/>
+    <circle cx="1020" cy="34" r="190" fill="url(#glow)" filter="url(#soft)">
+      <animate attributeName="cx" values="1020;900;1020" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".055">
+      <path d="M-40 252 C210 98 390 352 650 176 S1010 62 1250 146"/>
+      <path d="M-80 278 C180 134 410 360 676 206 S1020 104 1270 180"/>
+    </g>
+
+    <g transform="translate(88 72)">
+      <rect width="92" height="92" rx="25" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".13"/>
+      <text x="46" y="62" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="750" letter-spacing="-4">TH</text>
+    </g>
+
+    <text x="218" y="125" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="720" letter-spacing="-1.8">TechHub Studio</text>
+    <text x="220" y="168" fill="#aeb7c7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" letter-spacing=".3">Building focused desktop software from Türkiye.</text>
+    <text x="220" y="211" fill="#d7dce6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="1.8">TECHBROWSER · CHROMIUM · DESKTOP</text>
+
+    <rect x="88" y="250" width="1024" height="2" rx="1" fill="#ffffff" fill-opacity=".08"/>
+    <rect x="88" y="250" width="190" height="2" rx="1" fill="url(#accent)">
+      <animate attributeName="x" values="88;922;88" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <circle cx="1080" cy="74" r="4" fill="#ffffff" fill-opacity=".65">
+      <animate attributeName="fill-opacity" values=".3;.9;.3" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1104" cy="74" r="4" fill="#8b7cff" fill-opacity=".7">
+      <animate attributeName="fill-opacity" values=".9;.35;.9" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="299" rx="27.5" fill="none" stroke="#ffffff" stroke-opacity=".12"/>
+</svg>
