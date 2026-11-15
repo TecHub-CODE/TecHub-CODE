@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/TecHub-CODE">
-  <img src="https://img.shields.io/badge/Founder-Hasan_Yiğit-7C83FF?style=for-the-badge&labelColor=121722&logo=github&logoColor=white" alt="Hasan Yiğit" />
+  <img src="https://img.shields.io/badge/Founder-Hasan_Y.-7C83FF?style=for-the-badge&labelColor=121722&logo=github&logoColor=white" alt="Hasan Y." />
 </a>
 <a href="https://techbrowser.site">
   <img src="https://img.shields.io/badge/TechBrowser-3.1_Stable-58D6FF?style=for-the-badge&labelColor=121722&logo=googlechrome&logoColor=white" alt="TechBrowser 3.1 stable" />
@@ -17,7 +17,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm **Hasan Yiğit** — `TecHub-CODE`
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm **Hasan Y.** — `TecHub-CODE`
 
 ```yaml
 location:  "Türkiye"
@@ -25,12 +25,11 @@ role:      "Software development student • TechHub Studio founder"
 focus:     "Desktop browsers • product design • performance"
 product:   "TechBrowser 3.1"
 stable:    "Electron edition"
-next:      "Chromium foundation"
 services:  "Misket AI • TechAccount"
 goal:      "Build focused, independent desktop software"
 ```
 
-I'm building **TechBrowser**, a Windows-first browser with its own interface, account system, AI assistant, onboarding and installer experience. The Electron edition is the stable product today; the Chromium foundation is being developed separately for the next generation.
+I'm building **TechBrowser**, a Windows-first browser with its own interface, account system, AI assistant, onboarding and installer experience.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> The TechHub Ecosystem
 
@@ -95,7 +94,7 @@ A separate native-engine migration that can mature without destabilizing the cur
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TecHub-CODE&show_icons=true&count_private=true&hide_border=true&bg_color=121722&title_color=7C83FF&icon_color=58D6FF&text_color=ffffff" alt="TecHub-CODE GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TecHub-CODE&show_icons=true&hide_border=true&bg_color=121722&title_color=7C83FF&icon_color=58D6FF&text_color=ffffff" alt="TecHub-CODE GitHub statistics" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TecHub-CODE&layout=compact&hide_border=true&bg_color=121722&title_color=7C83FF&text_color=ffffff&langs_count=8" alt="TecHub-CODE languages" />
 
 <br><br>
